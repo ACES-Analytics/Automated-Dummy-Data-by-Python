@@ -7,7 +7,7 @@ Use Python to generate dummy sales data for data analytics purpose
 
 3. Define number variables
 
-4. Generate fake customer, country,salesman, salesteam
+4. Generate fake customer, country, salesman, sales team
 
 5. Generate time seriesGenerate sales records
 
